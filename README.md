@@ -5,7 +5,7 @@ A simple bot that is able to log into an instagram account.
 The following must be installed:
 <ul>
   <li>Selinium</li>
-  <li>Geckdriver</li>
+  <li>Geckodriver</li>
 </ul>
 
 The login details must be mapped to the following variables in the unix bash profile (.bashrc):
