@@ -15,7 +15,7 @@ The login details must be mapped to the following variables in the unix bash pro
 </ul>
 
 ## How to use
-Run the python file to run the Page Object Pattern test. This chains together the function that opens instagram in a browser and the function that logs a user in.
+Run the Bot.py file in the sample folder to run the Page Object Pattern test. This opens the browser and logs into the specified users account.
 
 ## Further improvements
 These methods could be expanded further to include the following:
